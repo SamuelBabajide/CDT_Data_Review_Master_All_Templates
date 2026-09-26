@@ -14,3 +14,9 @@ Record Counting: It maintains a record count of the processed data, including ra
 Output Management: The processed data and generated workbooks are saved in a specified output directory, ready for further use or reporting.
 
 This script is designed to streamline the data review process, ensuring high data quality and compliance with regulatory standards, and is an essential tool for managing credit data received from Nigerian credit data providers.
+
+## Author
+
+**Samuel Babajide** — Data Scientist specialising in applied analytics and predictive modelling within complex, regulated environments.
+
+[Website](https://samuelbabajide.github.io/) · [LinkedIn](https://linkedin.com/in/samuelbbabajide) 
